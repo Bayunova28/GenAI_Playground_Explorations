@@ -1,5 +1,5 @@
 ## Text-To-Text Generation
-<img align="center" src="https://github.com/Bayunova28/GenAI_Playground_Explorations/blob/main/assets/gemini-architecture.jpg" height="450" width="1000">
+<img align="center" src="https://github.com/Bayunova28/GenAI_Playground_Explorations/blob/main/assets/gemini-architecture.jpg" height="400" width="1000">
 
 Google Gemini AI is a powerful LLM model that can generate high-quality text and images for various use cases. It is currently available for free for anyone who wants to try it out. Gemini AI has two models: Gemini-Pro and Gemini-Pro-Vision. Gemini-Pro is a good recommendation for text-based use cases, such as writing blog posts, summaries, captions, etc. Gemini-Pro-Vision is designed for image-based use cases, such as captioning, describing, storytelling, and more. Both versions use state-of-the-art neural networks and large-scale datasets to produce coherent and relevant texts. If you are looking for a tool to enhance your text or image projects, you should check out Google Gemini AI today in [here](https://aistudio.google.com/app/apikey).
 
