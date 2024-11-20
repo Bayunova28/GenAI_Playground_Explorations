@@ -91,7 +91,7 @@ plt.axis('off')
 plt.title(caption)
 plt.show()
 ```
-## Acknowledgement
+## References
 * [Gemini: The Power of the Most Capable AI Model by Google](https://medium.com/@pankaj_pandey/gemini-the-power-of-the-most-capable-ai-model-by-google-ff72ddc66c2d)
 * [Exploring Stable Diffusion for Image Generation](https://medium.com/@souvik_real/exploring-stable-diffusion-for-image-generation-generating-code-in-python-7c1e56371b78)
 * [Building an Image Captioning Model Using Salesforce’s BLIP Model](https://medium.com/@k.pranav_22/building-an-image-captioning-model-using-salesforces-blip-model-3b80a4f032c4)
